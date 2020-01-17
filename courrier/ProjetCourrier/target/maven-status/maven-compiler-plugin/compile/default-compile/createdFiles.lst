@@ -1,0 +1,17 @@
+courrier/letter/Letter.class
+courrier/CourrierMain.class
+courrier/content/Text.class
+courrier/BankAccount.class
+courrier/letter/AcknowledgementOfReceipt.class
+courrier/content/ListHabitants.class
+courrier/Inhabitant.class
+courrier/letter/UrgentLetter.class
+courrier/City.class
+courrier/letter/DecoratingLetter.class
+courrier/letter/SimpleLetter.class
+courrier/content/Money.class
+courrier/letter/ScannerString.class
+courrier/letter/RegisteredLetter.class
+courrier/letter/BillOfExchange.class
+courrier/content/Content.class
+courrier/letter/FoolLetter.class
