@@ -1,7 +1,5 @@
 #author: Diallo Abdoul Matine
 
-#Groupe 3:
-
 #Les dispositions des fichiers du projet2
 ------------------------------------------
 #images
