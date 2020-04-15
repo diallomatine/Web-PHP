@@ -1,7 +1,0 @@
-courrier/letter/LetterTest.class
-courrier/letter/RegisteredLetterTest.class
-courrier/letter/BillOfExchangeLetterTest.class
-courrier/AppTest.class
-courrier/letter/RegisteredLetterDecorator.class
-courrier/letter/SimpleLetterTest.class
-courrier/letter/TestedLetter.class
